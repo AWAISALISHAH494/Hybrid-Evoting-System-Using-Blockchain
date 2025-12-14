@@ -1,0 +1,26 @@
+{
+    "name": "evoting-blockchain",
+    "version": "1.0.0",
+    "description": "Smart contracts for E-Voting System",
+    "scripts": {
+        "compile": "hardhat compile",
+        "test": "hardhat test",
+        "deploy": "hardhat run scripts/deploy.js --network sepolia",
+        "node": "hardhat node"
+    },
+    "keywords": [
+        "blockchain",
+        "ethereum",
+        "solidity"
+    ],
+    "author": "Hafsa",
+    "license": "MIT",
+    "devDependencies": {
+        "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+        "hardhat": "^2.19.2"
+    },
+    "dependencies": {
+        "@openzeppelin/contracts": "^5.0.1",
+        "dotenv": "^16.3.1"
+    }
+}

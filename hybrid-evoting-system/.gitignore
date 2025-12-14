@@ -1,0 +1,45 @@
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Testing
+coverage/
+.nyc_output/
+
+# Blockchain
+blockchain/artifacts/
+blockchain/cache/
+blockchain/typechain/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# AI Models
+ai-service/models/*.pkl
+ai-service/models/*.h5
+
+# Temporary files
+*.tmp
+*.temp
+.cache/

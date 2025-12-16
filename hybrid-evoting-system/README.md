@@ -2,27 +2,27 @@
 
 A next-generation secure and transparent election platform combining cloud computing, blockchain technology, Zero-Knowledge Proofs, and AI-powered fraud detection.
 
-## 🎯 Features
+## Features
 
 ### Core Features
-- ✅ Secure online voting interface (Web + Mobile-responsive)
-- ✅ Multi-factor authentication (Password + OTP + Biometric ready)
-- ✅ AES-256 vote encryption
-- ✅ Cloud-based vote storage (MongoDB Atlas)
-- ✅ Admin dashboard with election management
-- ✅ Manual vote integration for hybrid elections
+- Secure online voting interface (Web + Mobile-responsive)
+- Multi-factor authentication (Password + OTP + Biometric ready)
+- AES-256 vote encryption
+- Cloud-based vote storage (MongoDB Atlas)
+- Admin dashboard with election management
+- Manual vote integration for hybrid elections
 
 ### Advanced Features
-- 🔐 **End-to-End Verifiability** - Voters can verify their vote was counted
-- 🔐 **Zero-Knowledge Proofs** - Ballot secrecy with mathematical guarantees
-- 🤖 **AI Anomaly Detection** - Real-time fraud detection
-- ⛓️ **Blockchain Verification** - Immutable result storage on Ethereum
-- 📊 **Public Blockchain Explorer** - Transparent result verification
-- 🔑 **Smart Contracts** - Automated vote validation
-- 📱 **Multi-language Support** - English, Urdu, Pashto
-- 🔐 **Multi-signature Admin** - Prevents single-point manipulation
+- **End-to-End Verifiability** - Voters can verify their vote was counted
+- **Zero-Knowledge Proofs** - Ballot secrecy with mathematical guarantees
+- **AI Anomaly Detection** - Real-time fraud detection
+- **Blockchain Verification** - Immutable result storage on Ethereum
+- **Public Blockchain Explorer** - Transparent result verification
+- **Smart Contracts** - Automated vote validation
+- **Multi-language Support** - English, Urdu, Pashto
+- **Multi-signature Admin** - Prevents single-point manipulation
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - React 18 with Next.js 14
@@ -46,7 +46,7 @@ A next-generation secure and transparent election platform combining cloud compu
 - Flask
 - scikit-learn
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 hybrid-evoting-system/
@@ -57,7 +57,7 @@ hybrid-evoting-system/
 └── docs/              # Documentation
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js v18+
@@ -107,7 +107,7 @@ pip install -r requirements.txt
 
 ### Environment Variables
 
-**📋 Complete Setup Guide:** See [SETUP_GUIDE.md](./SETUP_GUIDE.md) for detailed instructions on obtaining all API keys and credentials.
+**Complete Setup Guide:** See [SETUP_GUIDE.md](./SETUP_GUIDE.md) for detailed instructions on obtaining all API keys and credentials.
 
 **Quick setup:**
 
@@ -185,14 +185,14 @@ cd blockchain
 npx hardhat run scripts/deploy.js --network sepolia
 ```
 
-## 📖 Documentation
+## Documentation
 
 - [Implementation Plan](./docs/implementation_plan.md)
 - [API Documentation](./docs/api/)
 - [User Manual](./docs/user-manual/)
 - [Technical Documentation](./docs/technical/)
 
-## 👥 Team
+## Team
 
 - **Fatima Tahir** (SU-22-01-002-012) - Frontend & UI/UX Lead
 - **Hira Aqeel** (SU-22-01-002-022) - Backend & AI Lead
@@ -200,7 +200,7 @@ npx hardhat run scripts/deploy.js --network sepolia
 
 **Supervisor**: Dr. Muhammad Asif Khan
 
-## 📅 Timeline
+## Timeline
 
 - **Phase 1**: Research & Planning (Nov-Dec 2025)
 - **Phase 2**: Core Development (Jan-Feb 2026)
@@ -209,7 +209,7 @@ npx hardhat run scripts/deploy.js --network sepolia
 - **Phase 5**: Testing (Jul 2026)
 - **Phase 6**: Deployment & Documentation (Aug 2026)
 
-## 🔒 Security Features
+## Security Features
 
 - AES-256-GCM encryption
 - SHA-256 hashing
@@ -219,20 +219,20 @@ npx hardhat run scripts/deploy.js --network sepolia
 - Rate limiting
 - Smart contract auditing
 
-## 📊 Success Metrics
+## Success Metrics
 
-- ✅ 100% end-to-end verifiability
-- ✅ 99.9% system accuracy
-- ✅ < 2 seconds vote encryption time
-- ✅ < 5 seconds blockchain verification
-- ✅ 1000+ concurrent users supported
-- ✅ 95%+ AI fraud detection accuracy
+- 100% end-to-end verifiability
+- 99.9% system accuracy
+- < 2 seconds vote encryption time
+- < 5 seconds blockchain verification
+- 1000+ concurrent users supported
+- 95%+ AI fraud detection accuracy
 
-## 📝 License
+## License
 
 This project is developed as a Final Year Project for educational purposes.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Sarhad University of Science and Information Technology
 - Department of Computer Science & Information Technology

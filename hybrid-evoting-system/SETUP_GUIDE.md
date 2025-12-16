@@ -63,11 +63,6 @@ This guide provides step-by-step instructions for obtaining all required environ
    - Replace `<password>` with your actual password
    - Replace `myFirstDatabase` with `evoting`
 
-**Final format:**
-```
-mongodb+srv://evoting_admin:YOUR_PASSWORD@cluster0.xxxxx.mongodb.net/evoting?retryWrites=true&w=majority
-```
-
 ---
 
 ## 2️⃣ JWT & Encryption Keys
@@ -334,7 +329,7 @@ TWILIO_PHONE_NUMBER=+15551234567
 
 **Format:**
 ```
-FIREBASE_API_KEY=AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+FIREBASE_API_KEY=*****XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 FIREBASE_AUTH_DOMAIN=evoting-system.firebaseapp.com
 FIREBASE_PROJECT_ID=evoting-system
 FIREBASE_STORAGE_BUCKET=evoting-system.appspot.com

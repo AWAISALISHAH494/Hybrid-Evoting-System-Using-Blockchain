@@ -236,7 +236,7 @@ npx hardhat run scripts/deploy.js --network sepolia
 
 **© 2025 Awais Ali Shah & Usman Ghani. All Rights Reserved.**
 
-This project is developed as a Final Year Project for educational purposes. All code, documentation, and intellectual property are owned by the authors.
+ All code, documentation, and intellectual property are owned by the authors.
 
 **Unauthorized use, reproduction, or derivative work is strictly prohibited and constitutes academic plagiarism and copyright infringement.**
 

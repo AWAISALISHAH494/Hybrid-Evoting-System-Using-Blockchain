@@ -1,5 +1,10 @@
 # Hybrid E-Voting System
 
+> **⚠️ COPYRIGHT NOTICE**  
+> **© 2025 Awais Ali Shah. All Rights Reserved.**  
+> This project and all its components are protected intellectual property.  
+> Unauthorized use, reproduction, or derivative work is strictly prohibited.
+
 A next-generation secure and transparent election platform combining cloud computing, blockchain technology, Zero-Knowledge Proofs, and AI-powered fraud detection.
 
 ## Features
@@ -29,6 +34,7 @@ A next-generation secure and transparent election platform combining cloud compu
 - Tailwind CSS
 - Ethers.js v6
 - Recharts
+- Framer Motion
 
 ### Backend
 - Node.js v18+
@@ -77,7 +83,7 @@ See QUICKSTART.md
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/AWAISALISHAH494/Hybrid-Evoting-System-Using-Blockchain
 cd hybrid-evoting-system
 ```
 
@@ -191,29 +197,20 @@ npx hardhat run scripts/deploy.js --network sepolia
 - [API Documentation](./docs/api/)
 - [User Manual](./docs/user-manual/)
 - [Technical Documentation](./docs/technical/)
+- [Merkle Tree Verification Guide](./MERKLE_VERIFICATION_GUIDE.md)
+- [Blockchain Test Guide](./BLOCKCHAIN_TEST_GUIDE.md)
 
-## Team
+## Development Team
 
-- **Fatima Tahir** (SU-22-01-002-012) - Frontend & UI/UX Lead
-- **Hira Aqeel** (SU-22-01-002-022) - Backend & AI Lead
-- **Hafsa** (SU-22-01-002-081) - Blockchain & Cryptography Lead
+- **Awais Ali Shah** (SUMC-22-01-002-004) - Lead Developer
 
-**Supervisor**: Dr. Muhammad Asif Khan
-
-## Timeline
-
-- **Phase 1**: Research & Planning (Nov-Dec 2025)
-- **Phase 2**: Core Development (Jan-Feb 2026)
-- **Phase 3**: Blockchain Integration (Mar-Apr 2026)
-- **Phase 4**: Advanced Features (May-Jun 2026)
-- **Phase 5**: Testing (Jul 2026)
-- **Phase 6**: Deployment & Documentation (Aug 2026)
 
 ## Security Features
 
 - AES-256-GCM encryption
 - SHA-256 hashing
 - JWT authentication
+- Merkle Tree verification
 - HTTPS/TLS
 - CORS protection
 - Rate limiting
@@ -228,17 +225,33 @@ npx hardhat run scripts/deploy.js --network sepolia
 - 1000+ concurrent users supported
 - 95%+ AI fraud detection accuracy
 
+## Blockchain Verification
+
+**Deployed Smart Contracts:**
+- **Network**: Ethereum Sepolia Testnet
+- **VoteStorage Contract**: `0xfEe71B9cD3514a3C0819bf39A8e433733680Ca75`
+- **Deployment Transaction**: [View on Etherscan](https://sepolia.etherscan.io/address/0xfEe71B9cD3514a3C0819bf39A8e433733680Ca75)
+
 ## License
 
-This project is developed as a Final Year Project for educational purposes.
+**© 2025 Awais Ali Shah. All Rights Reserved.**
+
+ All code, documentation, and intellectual property are owned by the authors.
+
+**Unauthorized use, reproduction, or derivative work is strictly prohibited and constitutes academic plagiarism and copyright infringement.**
 
 ## Acknowledgments
 
 - Sarhad University of Science and Information Technology
 - Department of Computer Science & Information Technology
-- Dr. Muhammad Asif Khan (Supervisor)
 
 ---
 
+> **⚠️ IMPORTANT NOTICE**  
+> **This project is protected by copyright and academic integrity policies.**  
+> **Blockchain-timestamped proof of implementation: December 5, 2025**  
+> **Any similar project submitted by other students will be flagged as plagiarism.**
+
 **Session**: 2022-2026  
-**Institution**: Sarhad University of Science and Information Technology, Peshawar, Pakistan
+**Institution**: Sarhad University of Science and Information Technology, Peshawar, Pakistan  
+**GitHub**: [AWAISALISHAH494/Hybrid-Evoting-System-Using-Blockchain](https://github.com/AWAISALISHAH494/Hybrid-Evoting-System-Using-Blockchain)

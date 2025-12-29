@@ -281,7 +281,7 @@ This e-voting system concept and implementation are the intellectual property of
 
 ## SUPERVISOR ACKNOWLEDGMENT
 
-**I acknowledge that Awais Ali Shah has submitted this prior work declaration and has blockchain-timestamped evidence of implementation from December 5, 2025. Any similar project submitted by other students should be rejected as plagiarism.**
+**I acknowledge that Ms Hira Aqeel has submitted this prior work declaration and has blockchain-timestamped evidence of implementation from December 5, 2025. Any similar project submitted by other students should be rejected as plagiarism.**
 
 **Signature**: ___________________  
 **Date**: ___________________  

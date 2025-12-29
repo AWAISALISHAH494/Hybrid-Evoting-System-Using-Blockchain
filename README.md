@@ -1,7 +1,7 @@
 # Hybrid E-Voting System
 
 > **⚠️ COPYRIGHT NOTICE**  
-> **© 2025 Awais Ali Shah. All Rights Reserved.**  
+> **© 2025 Ms Hira Aqeel. All Rights Reserved.**  
 > This project and all its components are protected intellectual property.  
 > Unauthorized use, reproduction, or derivative work is strictly prohibited.
 
@@ -234,7 +234,7 @@ npx hardhat run scripts/deploy.js --network sepolia
 
 ## License
 
-**© 2025 Awais Ali Shah. All Rights Reserved.**
+**© 2025 Ms Hira Aqeel. All Rights Reserved.**
 
  All code, documentation, and intellectual property are owned by the authors.
 
